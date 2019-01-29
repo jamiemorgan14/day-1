@@ -1,0 +1,21 @@
+h1 {
+  background-color: cornflowerblue;
+  color: rgb(243, 237, 232)
+}
+
+header {
+  text-align: center;
+}
+
+header h3 {
+  color: black
+}
+
+h3 {
+  color: cornflowerblue;
+}
+
+header h1:hover {
+  color: red;
+  font-size: 50px
+}
